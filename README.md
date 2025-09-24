@@ -124,8 +124,8 @@ The system provides:
 Saved videos are stored in the `result/` directory with the same name as the input file.
 
 ## Result video (embedded)
-[▶️ Watch the result video](result/output.mp4)
-<!-- <video src="result/hotel.mp4" controls style="max-width: 100%;"></video> -->
+
+<video src="[result/hotel.mp4](https://github.com/Deepshikhar/Person_Counter/blob/main/result/hotel.mp4)" controls style="max-width: 100%;"></video>
 
 ## Troubleshooting
 
