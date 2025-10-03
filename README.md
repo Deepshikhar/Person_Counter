@@ -127,7 +127,7 @@ Saved videos are stored in the `result/` directory with the same name as the inp
 
 ## Video Demonstration
 
-https://github.com/your-username/your-repo-name/blob/main/result/hotel.mp4
+https://github.com/deepshikhar/Person_Counter/blob/main/result/hotel.mp4
 
 *(Click the link above to view the result video)*
 
